@@ -36,6 +36,7 @@ body{
     text-align: center;
     font-weight: 500;
     font-size: 1.5em;
+    padding: 10px;
 }
 #time .ap{
     position: relative;
@@ -85,4 +86,8 @@ body{
     background: var(--clr);
     border-radius: 50%;
     box-shadow: 0 0 20px var(--clr), 0 0 60px var(--clr);
+}
+
+body{
+    background-color: #fff;
 }
